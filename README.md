@@ -1,1 +1,5 @@
-# Jump-start
+# Jumpstart
+
+A mock landing page built during a course on Codecademy
+
+# Live Demo
